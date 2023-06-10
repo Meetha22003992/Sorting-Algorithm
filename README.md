@@ -14,8 +14,7 @@ To write a program to perform selection sort and insertion sort using python pro
 ## Insertion Sort Algorithm:
 1.	Set the first element as sorted element j.
 2.	For each unsorted element X, check if current sorted element j >X.
-3.	If yes, move sorted element to the right by 1.
-4.	Break the loop and insert X.
+3.	If yes, move sorted element to the right by 1, break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
 i)	#Selection Sort
