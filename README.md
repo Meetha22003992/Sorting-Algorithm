@@ -1,6 +1,6 @@
 # Selection sort and Insertion sort
 ## Aim:
-To write a program to perform selection sort and insertion sort using python programming.
+To write a python program to perform selection sort and insertion sort using python programming.
 ## Equipment’s required:
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
