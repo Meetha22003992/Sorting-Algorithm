@@ -17,8 +17,10 @@ To write a python program to perform selection sort and insertion sort using pyt
 3.	If yes, move sorted element to the right by 1, break the loop and insert X.
 5.	Repeat the steps 2 to 4 for sorting all the elements in the array.
 ## Program:
-i)	#Selection Sort
+i)Selection Sort
 ```
+#Developed By: Meetha Prabhu
+#Reg No:212222240065
 def selection_sort(num):
     for i in range(len(num)):
         lowest_value_index=i
@@ -30,8 +32,10 @@ list_of_num=eval(input())
 selection_sort(list_of_num)
 print(list_of_num)
 ```
-ii)	#Insertion Sort
+ii)Insertion Sort
 ```
+#Developed By: Meetha Prabhu
+#Reg No:212222240065
 def insertion_sort(num):
     for i in range(1,len(num)):
         item_to_insert=num[i]
